@@ -29,10 +29,11 @@ Construyo aplicaciones modernas con **Nuxt/Vue y Express**, enfocadas en interfa
 
 | Proyecto | Descripción | Stack |
 |----------|------------|-------|
-| [Clima-APP](https://github.com/Jesus-Ort/Clima-APP) | Consulta de clima en tiempo real usando APIs externas. Interfaz ligera y responsiva. | Vue, JavaScript, REST API |
-| [RandomDuel](https://github.com/Jesus-Ort/RandomDuel) | Generador de enfrentamientos aleatorios con exportación de resultados. | JavaScript |
+| [Fondo de ayuda mutua](https://github.com/Jesus-Ort/Fondo-de-Ayuda-Mutua) | Sistema web para administrar un fondo de ayuda mutua: gestión de miembros, aportes, préstamos y pagos. Incluye autenticación, roles de usuario y control de acceso. | Nuxt, Vuetify, Supabase |
+| [Dolar Base](https://github.com/Jesus-Ort/DolarBase) | Aplicación para calcular y convertir entre dólares y bolívares. | Nuxt, Vuetify |
 | [Sistema-NH](https://github.com/Jesus-Ort/Sistema-NH) | Gestión interna de datos con autenticación y control de usuarios. | Vue, Tailwind CSS |
-| [Preguntita](https://github.com/Jesus-Ort/Preguntita) | Aplicación de preguntas y respuestas en tiempo real. | Vue, JavaScript |
+| [RandomDuel](https://github.com/Jesus-Ort/RandomDuel) | Generador de enfrentamientos aleatorios con exportación de resultados. | JavaScript |
+| [Clima-APP](https://github.com/Jesus-Ort/Clima-APP) | Consulta de clima en tiempo real usando APIs externas. Interfaz ligera y responsiva. | Vue, JavaScript, REST API |
 
 ---
 
