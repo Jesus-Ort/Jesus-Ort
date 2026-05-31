@@ -41,7 +41,7 @@ Construyo aplicaciones modernas con **Nuxt/Vue y Express**, enfocadas en interfa
 
 - Código limpio y mantenible  
 - Separación clara entre frontend y backend  
-- Documentación como parte del proyecto  
+- Documentación como parte del proyecto  *Cuando recuerdo hacerla :P*
 - Soluciones prácticas y escalables  
 
 ---
